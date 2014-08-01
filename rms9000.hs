@@ -9,10 +9,10 @@ import Text.Printf
 import Text.Regex.Posix
 
 -- Configuration
-server = "irc.someserver.com"
-port   = 6667
-chan   = "#insertchannelhere"
-nick   = "obviously_too_lazy_to_edit_bot"
+server  = "irc.someserver.com"
+port    = 6667
+channel = "#insertchannelhere"
+nick    = "obviously_too_lazy_to_edit_bot"
 
 -- The 'Net' monad, a wrapper over IO, carrying the bot's immutable state.
 type Net = ReaderT Bot IO
