@@ -6,15 +6,13 @@ A simple IRC bot written in Haskell using regular expressions to correct rampant
 Running it
 ----------
 You can either compile with:
->   ghc -O --make -o rms9000 rms9000.hs
+>    ghc -O --make -o rms9000 rms9000.hs
 
 then run with:
-
 >    ./rms9000
 
 or alternatively use the Haskell interpreter to run it with:
-
->  runhaskell rms9000.hs
+>    runhaskell rms9000.hs
 
 License
 -------
