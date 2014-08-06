@@ -25,3 +25,5 @@ A vast majority of this code comes from Don Stewart's excellent IRC bot tutorial
 Disclaimer
 ----------
 Freenode will ban your IP if you abuse this bot. Don't ask how I know. So yeah, don't do that.
+
+Also, this bot is not RFC compliant. If you really want an RFC compliant copypasta bot, fork this and make it. I don't know enough about the IRC standard to do so.
