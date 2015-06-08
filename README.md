@@ -1,7 +1,7 @@
 RMS9000
 =======
 
-A simple IRC bot written in Haskell using regular expressions to correct rampant misnomers.
+A simple IRC bot written in Lisp using regular expressions and the cl-irc library to correct rampant misnomers.
 
 Running it
 ----------
